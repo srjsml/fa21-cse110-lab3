@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-##Minor fixes:
+## Minor fixes:
 
 - Add change here
