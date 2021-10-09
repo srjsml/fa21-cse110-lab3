@@ -17,3 +17,6 @@ What can we expect to work on next week?
 - Documentation of Features 1, 2
 - Feature 3 Drafting
 
+### Additional Notes:
+- Note 1
+- Note 2
