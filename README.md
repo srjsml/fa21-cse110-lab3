@@ -1,6 +1,3 @@
-NAME: Seeraj Somla
-CSE 110: Lab 2 repository.
-Website link: https://srjsml.github.io/Lab2/
-
-
-Woah Kenny!!!!
+NAME: Seeraj Somla<br />
+CSE 110: Lab 3 repository.<br />
+Website link: https://srjsml.github.io/fa21-cse110-lab3/
